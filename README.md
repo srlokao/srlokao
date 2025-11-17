@@ -27,4 +27,10 @@ Here are some ways to reach me:
 
 ---
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=srlokao&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/srlokao/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srlokao/srlokao/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srlokao/srlokao/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/srlokao/srlokao/output/pacman-contribution-graph.svg">
+</picture>
+
+###
